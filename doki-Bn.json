@@ -1,6 +1,6 @@
 {
     "spider": "./jar/spider.jar",
-    "wallpaper": "https://t.mwm.moe/fj",
+    "wallpaper": "https://api.nguaduot.cn/netbian/random",
     "lives": [
         {
             "name": "聚合LIVE",
